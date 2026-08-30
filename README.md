@@ -8,14 +8,14 @@
 - DevTools (консоль, сеть, Lighthouse)
 
 ## Итог
-- **Всего багов найдено:** X
+- **Всего багов найдено:** 40
 - **По серьёзности:**
-  - Blocker: X
-  - Critical: X
-  - Major: X
-  - Minor: X
-  - Trivial: X
+  - Blocker: 3
+  - Critical: 11
+  - Major: 7
+  - Minor: 16
+  - Trivial: 3
 - **По типу:**
-  - Функциональные: X
-  - Визуальные: X
-  - UI/UX: X
+  - Функциональные: 17
+  - Визуальные: 11
+  - UI/UX: 12
